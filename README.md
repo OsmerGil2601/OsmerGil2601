@@ -32,7 +32,7 @@ Estudiante de **Informatica**, enfocado en el desarrollo de software, estructura
 
 #### 1. [Visualizador de Algoritmos](https://github.com/OsmerGil2601/Visualizador-De-Algoritmos)
 Visualizador interactivo de algoritmos de búsqueda de rutas (**A\***, **Dijkstra** y **BFS**) sobre grafos en cuadrícula.
-- **Aspectos técnicos:** Implementación propia de una cola de prioridad con montículo binario mínimo ($O((V + E) \log V)$), heurística Manhattan, generación de laberintos por división recursiva y renderizado asíncrono desacoplado del DOM.
+- **Aspectos técnicos:** Implementación propia de una cola de prioridad con montículo binario mínimo (O((V + E) \log V)), heurística Manhattan, generación de laberintos por división recursiva y renderizado asíncrono desacoplado del DOM.
 - **Tecnologías:** `JavaScript` · `HTML5` · `CSS3`
 
 #### 2. [Snake Game](https://github.com/OsmerGil2601/Snake-En-Navegador)
